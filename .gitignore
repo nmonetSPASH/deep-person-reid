@@ -141,4 +141,7 @@ model-zoo/
 debug*
 
 
-data/
+./data/
+data/market1501/
+data/soccernetv3/
+data/market1501.zip

@@ -15,6 +15,9 @@ yapf
 isort==4.3.21
 imageio
 chardet
+
+SoccerNet
+
 # Export --------------------------------------
 # onnx
 # onnx-simplified
